@@ -1,0 +1,7 @@
+name = "ParamTests"
+uuid = "441d1e43-a912-464c-bbf5-60ffb65d6137"
+authors = ["Šimon Soldát"]
+version = "0.1.0"
+
+[compat]
+julia = "1.6.7"
